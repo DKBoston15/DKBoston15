@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dakota</h1>
 <h3 align="center">A passionate developer from Texas focused on creating impactful software</h3>
 
-- 🔭  I’m currently working on [Paisley](https://github.com/DKBoston15/RFC)
+- 🔭  I’m currently working on [Quester](https://github.com/DKBoston15/app-gradcapfinder)
 
-- 🌱  I’m currently learning **AWS and GO**
+- 🌱  I’m currently expanding my knowledge of **Typescript**
 
 - 👨‍💻  All of my projects are available at [https://github.com/DKBoston15](https://github.com/DKBoston15)
 
