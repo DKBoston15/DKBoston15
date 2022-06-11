@@ -11,7 +11,7 @@
 
 - 📫  How to reach me **dakotabrownag@gmail.com**
 
-- 📄  Know about my experiences [https://www.linkedin.com/in/dakotabrownag/](https://www.linkedin.com/in/dakotabrownag/)
+- 📄  Learn about my experiences [https://www.linkedin.com/in/dakotabrownag/](https://www.linkedin.com/in/dakotabrownag/)
 
 
 <h3 align="left">Languages and Tools:</h3>
