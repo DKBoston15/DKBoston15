@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakota</h1>
-<h3 align="center">A passionate developer from Texas focused on creating impactful software</h3>
+<h3 align="center">A passionate developer focused on creating impactful software</h3>
 
 - 🔭  I’m currently working on [Quester](https://github.com/DKBoston15/app-gradcapfinder/tree/v1-alpha-vite)
 
