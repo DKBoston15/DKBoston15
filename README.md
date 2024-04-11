@@ -3,8 +3,6 @@
 
 - 🔭  I’m currently working on [Quester](https://github.com/DKBoston15/app-gradcapfinder/tree/v1-alpha-vite)
 
-- 🌱  I’m currently expanding my knowledge of **Typescript**
-
 - 👨‍💻  All of my projects are available at [https://github.com/DKBoston15](https://github.com/DKBoston15)
 
 - 💬  Ask me about **collaborative and educational software!**
